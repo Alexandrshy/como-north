@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alexandrshy/coma"
+    "url": "https://github.com/Alexandrshy/coma"
   },
   "browserslist": [
     "last 2 version"

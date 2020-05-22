@@ -3,27 +3,33 @@ name: Release
 on:
   push:
     branches:
-      -master
+      - master
 
 jobs:
   Release:
+    name: release
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
 
-      - name: Use Node ${{ matrix.node-version }}
-        uses: actions/setup-node@master
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
         with:
           always-auth: true
           node-version: 12
           registry-url: "https://npm.pkg.github.com"
+          scope: "@Alexandrshy"
 
       - name: Install dependencies
         run: npm i
 
+      - name: Build
+        run: npm run build
+
       - name: Semantic Release
-        uses: cycjimmy?semantic-release-action@v2
+        uses: cycjimmy/semantic-release-action@v2
+        id: semantic
         with:
           branch: master
           extra_plugins: |
