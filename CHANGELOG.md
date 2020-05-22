@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Alexandrshy/coma/compare/v1.0.0...v1.0.1) (2020-05-22)
+
+
+### Bug Fixes
+
+* update-workflow ([0e6a0ac](https://github.com/Alexandrshy/coma/commit/0e6a0ac2a31ec91f45e77813447e88701af3ab11))
+
 # 1.0.0 (2020-05-22)
 
 
