@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/Alexandrshy/coma/compare/v1.0.1...v1.0.2) (2020-05-23)
+
+
+### Bug Fixes
+
+* error correction for workflow ([f7a3187](https://github.com/Alexandrshy/coma/commit/f7a31873681e9ebe3a78fbb8330b9680e50db6d4))
+* returned the previous state ([48bbceb](https://github.com/Alexandrshy/coma/commit/48bbceb8b9cbd066e6cb147e5476148b32d1cc8b))
+
 ## [1.0.1](https://github.com/Alexandrshy/coma/compare/v1.0.0...v1.0.1) (2020-05-22)
 
 
