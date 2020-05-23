@@ -11,6 +11,7 @@ export default {
         {
             file: pkg.main,
             format: 'umd',
+            name: 'ComoNorth',
         },
         {
             file: pkg.module,

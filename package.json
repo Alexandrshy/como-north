@@ -1,7 +1,7 @@
 {
   "name": "como-north",
   "version": "1.0.0",
-  "description": "library template",
+  "description": "GitHub template for starting new projects",
   "main": "./dist/index.js",
   "module": "./dist/index.es.js",
   "types": "./dist/index.d.ts",

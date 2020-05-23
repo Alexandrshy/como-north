@@ -1,5 +1,5 @@
-const log = (a: string): string => {
+export const log = (a: string): string => {
+    console.log('a:', a);
+
     return a;
 };
-
-console.log(log('test'));
