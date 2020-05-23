@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Alexandrshy/coma/compare/v1.0.2...v1.0.3) (2020-05-23)
+
+
+### Bug Fixes
+
+* change-package-name ([6208178](https://github.com/Alexandrshy/coma/commit/6208178b9919886af15610e30b2a36f87161639e))
+
 ## [1.0.2](https://github.com/Alexandrshy/coma/compare/v1.0.1...v1.0.2) (2020-05-23)
 
 
