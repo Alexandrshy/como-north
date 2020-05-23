@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Alexandrshy/coma/compare/v1.0.3...v1.0.4) (2020-05-23)
+
+
+### Bug Fixes
+
+* return old name ([0115a51](https://github.com/Alexandrshy/coma/commit/0115a516a82168ded56dd614629578afcc0a5313))
+
 ## [1.0.3](https://github.com/Alexandrshy/coma/compare/v1.0.2...v1.0.3) (2020-05-23)
 
 
