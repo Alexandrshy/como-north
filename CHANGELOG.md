@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/Alexandrshy/como-north/compare/v1.1.0...v1.1.1) (2020-05-28)
+
+
+### Bug Fixes
+
+* fix eslint config ([944196a](https://github.com/Alexandrshy/como-north/commit/944196a0076f3361865a2f7672e0954e3a47c6a8))
+* led to one kind of workflow for publishing and creaping PR ([279d2fb](https://github.com/Alexandrshy/como-north/commit/279d2fb8e29aef69b20c49d72d1a39158f086aaa))
+
 # [1.1.0](https://github.com/Alexandrshy/como-north/compare/v1.0.5...v1.1.0) (2020-05-23)
 
 
