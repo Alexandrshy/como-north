@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/Alexandrshy/como-north/compare/v1.1.1...v1.1.2) (2020-05-28)
+
+
+### Bug Fixes
+
+* added babel extension for rollup ([a248a70](https://github.com/Alexandrshy/como-north/commit/a248a70e50b59b9ee1960c92c2eb0c38b793c5a0))
+* merge ([af191cb](https://github.com/Alexandrshy/como-north/commit/af191cbeeeaf2839fa553fc781ff508dc039a215))
+
 ## [1.1.1](https://github.com/Alexandrshy/como-north/compare/v1.1.0...v1.1.1) (2020-05-28)
 
 
