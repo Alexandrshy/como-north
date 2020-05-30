@@ -1,3 +1,11 @@
+## [1.1.3](https://github.com/Alexandrshy/como-north/compare/v1.1.2...v1.1.3) (2020-05-30)
+
+
+### Bug Fixes
+
+* deleted 'browserslist' for one truth source in babel configuration file ([7b33ff2](https://github.com/Alexandrshy/como-north/commit/7b33ff23325306ab6c602b0fa86a589fc68e37e8))
+* deleted 'browserslist' for one truth source in babel configuration file ([be4d479](https://github.com/Alexandrshy/como-north/commit/be4d479a7a17c329e4ab79774dd2aa290c7747b1))
+
 ## [1.1.2](https://github.com/Alexandrshy/como-north/compare/v1.1.1...v1.1.2) (2020-05-28)
 
 
