@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/Alexandrshy/como-north/compare/v1.1.3...v1.1.4) (2020-05-30)
+
+
+### Bug Fixes
+
+* fixed babel plugin configuration in rollup ([196ab57](https://github.com/Alexandrshy/como-north/commit/196ab57d8a631e4647ae63b6bedfa99f1bfe0602))
+
 ## [1.1.3](https://github.com/Alexandrshy/como-north/compare/v1.1.2...v1.1.3) (2020-05-30)
 
 
