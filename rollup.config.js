@@ -6,6 +6,8 @@ import {terser} from 'rollup-plugin-terser';
 
 import pkg from './package.json';
 
+const extensions = ['.js', '.jsx', '.ts', '.tsx'];
+
 export default {
     input: 'src/index.ts',
     output: [
@@ -20,10 +22,13 @@ export default {
         },
     ],
     plugins: [
-        babel(),
         typescript({
             rollupCommonJSResolveHack: true,
             clean: true,
+        }),
+        babel({
+            exclude: 'node_modules/**',
+            extensions,
         }),
         resolve(),
         commonjs(),
