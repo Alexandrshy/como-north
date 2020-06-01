@@ -1,3 +1,14 @@
+## [1.1.6](https://github.com/Alexandrshy/como-north/compare/v1.1.5...v1.1.6) (2020-06-01)
+
+
+### Bug Fixes
+
+* bump @babel/preset-typescript from 7.9.0 to 7.10.1 ([8c19fa9](https://github.com/Alexandrshy/como-north/commit/8c19fa9c2ca4c6e839c8689e9c073404395e1802))
+* bump @typescript-eslint/eslint-plugin from 3.0.0 to 3.0.2 ([8a281cd](https://github.com/Alexandrshy/como-north/commit/8a281cdba0ec46da90194eb62513c2863a635c4e))
+* bump lint-staged from 10.2.6 to 10.2.7 ([0079511](https://github.com/Alexandrshy/como-north/commit/0079511b5c97851afcb894bf2f111731017a0d6d))
+* bump rollup-plugin-terser from 5.3.0 to 6.1.0 ([19d0f59](https://github.com/Alexandrshy/como-north/commit/19d0f59e6446018c31dcb31e150e8debe3ce71f9))
+* bump semantic-release from 17.0.7 to 17.0.8 ([b8133c1](https://github.com/Alexandrshy/como-north/commit/b8133c10fe7458f6c901812870883459ef4f7d9f))
+
 ## [1.1.5](https://github.com/Alexandrshy/como-north/compare/v1.1.4...v1.1.5) (2020-05-31)
 
 
