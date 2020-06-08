@@ -1,3 +1,14 @@
+## [1.1.7](https://github.com/Alexandrshy/como-north/compare/v1.1.6...v1.1.7) (2020-06-08)
+
+
+### Bug Fixes
+
+* bump @rollup/plugin-babel from 5.0.2 to 5.0.3 ([0ea0b58](https://github.com/Alexandrshy/como-north/commit/0ea0b5878902510e888de582af0cf840e027759c))
+* bump @rollup/plugin-commonjs from 12.0.0 to 13.0.0 ([fa7c8e4](https://github.com/Alexandrshy/como-north/commit/fa7c8e4a862ed2aca86aad8e8443c45b13031a73))
+* bump @rollup/plugin-node-resolve from 8.0.0 to 8.0.1 ([92b975d](https://github.com/Alexandrshy/como-north/commit/92b975d1b7a3846ce5166a44731fe1630e17f332))
+* bump eslint from 7.1.0 to 7.2.0 ([687a151](https://github.com/Alexandrshy/como-north/commit/687a151ca94df25266adf6f9325a952fca511ca3))
+* bump eslint-plugin-jsdoc from 26.0.1 to 27.0.4 ([144a1bd](https://github.com/Alexandrshy/como-north/commit/144a1bd9649a2b742ce6b35ade7eb630b8c64042))
+
 ## [1.1.6](https://github.com/Alexandrshy/como-north/compare/v1.1.5...v1.1.6) (2020-06-01)
 
 
