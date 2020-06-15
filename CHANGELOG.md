@@ -1,3 +1,14 @@
+## [1.1.8](https://github.com/Alexandrshy/como-north/compare/v1.1.7...v1.1.8) (2020-06-15)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/eslint-plugin from 3.0.2 to 3.2.0 ([0b81243](https://github.com/Alexandrshy/como-north/commit/0b81243f41699e2d907d1dc3710aa859c4706209))
+* bump @typescript-eslint/parser from 3.0.2 to 3.2.0 ([7c7be94](https://github.com/Alexandrshy/como-north/commit/7c7be9467ac8f33e8f442fa696b5f126274764d1))
+* bump eslint-plugin-jsdoc from 27.0.4 to 27.0.7 ([56260ad](https://github.com/Alexandrshy/como-north/commit/56260adbacea445a318cc149356d3caee1584aee))
+* bump rollup from 2.10.5 to 2.16.1 ([00b7886](https://github.com/Alexandrshy/como-north/commit/00b78869b702a3f8213d18d2fa4e5066df7fd1a1))
+* bump typescript from 3.9.3 to 3.9.5 ([96a4622](https://github.com/Alexandrshy/como-north/commit/96a46228fcc2d1960f92aeb3125c6a31d5cc4eb6))
+
 ## [1.1.7](https://github.com/Alexandrshy/como-north/compare/v1.1.6...v1.1.7) (2020-06-08)
 
 
