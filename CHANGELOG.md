@@ -1,3 +1,17 @@
+## [1.1.9](https://github.com/Alexandrshy/como-north/compare/v1.1.8...v1.1.9) (2020-06-23)
+
+
+### Bug Fixes
+
+* bump @commitlint/cli from 8.3.5 to 9.0.1 ([c307b75](https://github.com/Alexandrshy/como-north/commit/c307b75746359cbe6464171170b0556f1b98d902))
+* bump @commitlint/config-conventional from 8.3.4 to 9.0.1 ([fa21261](https://github.com/Alexandrshy/como-north/commit/fa2126156f4c1e3aaa1d715d5922ff283069d33a))
+* bump @typescript-eslint/eslint-plugin from 3.2.0 to 3.3.0 ([77c889d](https://github.com/Alexandrshy/como-north/commit/77c889d4951776cb563b49d356118b779ab13871))
+* bump eslint from 7.2.0 to 7.3.0 ([2206bb5](https://github.com/Alexandrshy/como-north/commit/2206bb59a88052bf982bfd6c197b0ccc572a4473))
+* bump eslint from 7.2.0 to 7.3.1 ([512bbf1](https://github.com/Alexandrshy/como-north/commit/512bbf136ed199422ee539335137b4ee2091c588))
+* bump eslint-plugin-jsdoc from 27.0.7 to 28.0.0 ([ee78af7](https://github.com/Alexandrshy/como-north/commit/ee78af7e4d9bf7b850acbc6f9334dc191b2250da))
+* bump rollup from 2.16.1 to 2.17.1 ([7888a0e](https://github.com/Alexandrshy/como-north/commit/7888a0e2eda4c2fe48cb499f7ca679a107a7c791))
+* bump rollup from 2.16.1 to 2.18.0 ([87eafcf](https://github.com/Alexandrshy/como-north/commit/87eafcffa911151c6e9b1ff7f8fa0de63324bca5))
+
 ## [1.1.8](https://github.com/Alexandrshy/como-north/compare/v1.1.7...v1.1.8) (2020-06-15)
 
 
