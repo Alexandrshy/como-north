@@ -1,3 +1,14 @@
+## [1.1.10](https://github.com/Alexandrshy/como-north/compare/v1.1.9...v1.1.10) (2020-06-30)
+
+
+### Bug Fixes
+
+* bump @babel/core from 7.10.2 to 7.10.3 ([b20d721](https://github.com/Alexandrshy/como-north/commit/b20d72121125f9b68802e23731c326a0e0a24ee0))
+* bump @babel/preset-env from 7.10.2 to 7.10.4 ([19ad54f](https://github.com/Alexandrshy/como-north/commit/19ad54feb14dfdf434f5757ecb5d8a70e9458a1a))
+* bump @rollup/plugin-node-resolve from 8.0.1 to 8.1.0 ([b3dbda6](https://github.com/Alexandrshy/como-north/commit/b3dbda66c0a63feb5d195dfc8d1ba3d60b26656d))
+* bump @typescript-eslint/parser from 3.2.0 to 3.4.0 ([0da1ccc](https://github.com/Alexandrshy/como-north/commit/0da1cccbba9635e1bb8031ff64ca5902c0615cf2))
+* bump semantic-release from 17.0.8 to 17.1.1 ([5401fc8](https://github.com/Alexandrshy/como-north/commit/5401fc80c5c33db485ef99dc690f552c448cfe21))
+
 ## [1.1.9](https://github.com/Alexandrshy/como-north/compare/v1.1.8...v1.1.9) (2020-06-23)
 
 
