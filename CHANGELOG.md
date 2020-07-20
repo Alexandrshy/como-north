@@ -1,3 +1,14 @@
+## [1.1.12](https://github.com/Alexandrshy/como-north/compare/v1.1.11...v1.1.12) (2020-07-20)
+
+
+### Bug Fixes
+
+* [security] bump lodash from 4.17.15 to 4.17.19 ([8b57420](https://github.com/Alexandrshy/como-north/commit/8b5742023965face2bf96181f8e0e04a78e225dd))
+* bump @babel/core from 7.10.3 to 7.10.5 ([ab20bcd](https://github.com/Alexandrshy/como-north/commit/ab20bcda769feed8c8259c7096b18d75cbf1d969))
+* bump @commitlint/cli from 9.0.1 to 9.1.1 ([c1b7868](https://github.com/Alexandrshy/como-north/commit/c1b78682576212d033c4c4509e73178ebdd7c73f))
+* bump @typescript-eslint/eslint-plugin from 3.5.0 to 3.6.1 ([3f743fd](https://github.com/Alexandrshy/como-north/commit/3f743fd6f01a31625db115d1141d6e2f156a5880))
+* bump @typescript-eslint/parser from 3.4.0 to 3.6.1 ([1c6489b](https://github.com/Alexandrshy/como-north/commit/1c6489b02ffabd6e6711bcaa687153c84532fe84))
+
 ## [1.1.11](https://github.com/Alexandrshy/como-north/compare/v1.1.10...v1.1.11) (2020-07-06)
 
 
