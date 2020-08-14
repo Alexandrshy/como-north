@@ -1,3 +1,19 @@
+## [1.1.14](https://github.com/Alexandrshy/como-north/compare/v1.1.13...v1.1.14) (2020-08-14)
+
+
+### Bug Fixes
+
+* bump @babel/core from 7.10.5 to 7.11.1 ([cd35918](https://github.com/Alexandrshy/como-north/commit/cd359186e2b715009f20dd4b66441f2e509f5d60))
+* bump @rollup/plugin-babel from 5.0.3 to 5.1.0 ([d077066](https://github.com/Alexandrshy/como-north/commit/d0770664631b0399fc67eee521ebe36549eb8a4a))
+* bump @typescript-eslint/eslint-plugin from 3.6.1 to 3.8.0 ([67cf582](https://github.com/Alexandrshy/como-north/commit/67cf5825a584d0a2c315010fdd7cace9f5b02080))
+* bump @typescript-eslint/parser from 3.6.1 to 3.7.1 ([894f4c6](https://github.com/Alexandrshy/como-north/commit/894f4c60892f0e60a859ee9651bf7a3a1bd3fe1f))
+* bump eslint from 7.5.0 to 7.6.0 ([475bbf4](https://github.com/Alexandrshy/como-north/commit/475bbf4d6760860c70eeaa94dcff180c7c33f76f))
+* bump eslint from 7.5.0 to 7.7.0 ([96f0b7a](https://github.com/Alexandrshy/como-north/commit/96f0b7af631ed3ee4dd6e43cfecf261efdac171a))
+* bump eslint-plugin-jsdoc from 30.0.3 to 30.2.1 ([0d38e82](https://github.com/Alexandrshy/como-north/commit/0d38e82e75fdbcd045a73f2201fdc3aeb8096955))
+* bump rollup from 2.23.0 to 2.25.0 ([437f6c5](https://github.com/Alexandrshy/como-north/commit/437f6c5cbfff8e519441fbf79137f20d2c1df30e))
+* bump rollup-plugin-typescript2 from 0.27.1 to 0.27.2 ([dd952b5](https://github.com/Alexandrshy/como-north/commit/dd952b59f4b103e646e693dd00316db9ccef4b27))
+* bump typescript from 3.9.5 to 3.9.7 ([9340a42](https://github.com/Alexandrshy/como-north/commit/9340a42b4d75fb9d6635f9afee52765979edfc62))
+
 ## [1.1.13](https://github.com/Alexandrshy/como-north/compare/v1.1.12...v1.1.13) (2020-07-29)
 
 
