@@ -1,3 +1,19 @@
+## [1.1.16](https://github.com/Alexandrshy/como-north/compare/v1.1.15...v1.1.16) (2020-08-30)
+
+
+### Bug Fixes
+
+* bump @babel/core from 7.11.1 to 7.11.4 ([4912472](https://github.com/Alexandrshy/como-north/commit/49124726d97408dc0ef6eec5eb897e4ea55c2881))
+* bump @commitlint/cli from 9.1.1 to 9.1.2 ([cdf380f](https://github.com/Alexandrshy/como-north/commit/cdf380f9d8add2737e6db4b1aff695ac502fcb2d))
+* bump @commitlint/config-conventional from 9.1.1 to 9.1.2 ([e55da8e](https://github.com/Alexandrshy/como-north/commit/e55da8e4abb2bb2db6ffd8c05d91264b2f363152))
+* bump @rollup/plugin-node-resolve from 8.4.0 to 9.0.0 ([5a8c5cc](https://github.com/Alexandrshy/como-north/commit/5a8c5ccdd066595d63d77aefd48253bc0d615b68))
+* bump @typescript-eslint/eslint-plugin from 3.9.0 to 3.9.1 ([0a8ad4e](https://github.com/Alexandrshy/como-north/commit/0a8ad4ea76b67605f5eb3c99a11782c03d50672d))
+* bump @typescript-eslint/parser from 3.9.0 to 3.9.1 ([4277b02](https://github.com/Alexandrshy/como-north/commit/4277b0282bbde2a9f82fa4efa65fea4c20d505ec))
+* bump eslint-plugin-jsdoc from 30.2.1 to 30.2.4 ([0a7356c](https://github.com/Alexandrshy/como-north/commit/0a7356c1f17b9dbc25ca0ef50944da5872b60e5e))
+* bump rollup from 2.25.0 to 2.26.5 ([261fb8c](https://github.com/Alexandrshy/como-north/commit/261fb8cade7f1b0b83061f326d40e6a16d0d6795))
+* bump rollup-plugin-terser from 6.1.0 to 7.0.1 ([85aa011](https://github.com/Alexandrshy/como-north/commit/85aa0118b439101ea557f87983fd1d5585802f6f))
+* bump typescript from 3.9.7 to 4.0.2 ([7605188](https://github.com/Alexandrshy/como-north/commit/76051885d1c5437c8e6fb128e449eb2bbf67e425))
+
 ## [1.1.15](https://github.com/Alexandrshy/como-north/compare/v1.1.14...v1.1.15) (2020-08-23)
 
 
