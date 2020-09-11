@@ -1,3 +1,19 @@
+## [1.1.18](https://github.com/Alexandrshy/como-north/compare/v1.1.17...v1.1.18) (2020-09-11)
+
+
+### Bug Fixes
+
+* [security] bump node-fetch from 2.6.0 to 2.6.1 ([73d5cf3](https://github.com/Alexandrshy/como-north/commit/73d5cf38f07793d511cc94a33c927fbe6d8291a2))
+* bump @babel/core from 7.11.4 to 7.11.6 ([37fc267](https://github.com/Alexandrshy/como-north/commit/37fc267e2bb355f8e430a496ef273b9d6cf6933f))
+* bump @babel/preset-env from 7.11.0 to 7.11.5 ([b6cb14b](https://github.com/Alexandrshy/como-north/commit/b6cb14bb7824f48de84c4839aba1c088c4c15b0e))
+* bump @semantic-release/npm from 7.0.5 to 7.0.6 ([4eaee04](https://github.com/Alexandrshy/como-north/commit/4eaee0469d301886c68384daec54c20066a8d91e))
+* bump @typescript-eslint/eslint-plugin from 3.10.1 to 4.0.0 ([fea3f25](https://github.com/Alexandrshy/como-north/commit/fea3f25adb268262edf61ed7924d79b1de5b9551))
+* bump eslint from 7.7.0 to 7.8.1 ([416d470](https://github.com/Alexandrshy/como-north/commit/416d470a9c185b967676042f21e08443a3c1e62c))
+* bump eslint-plugin-jsdoc from 30.3.0 to 30.3.2 ([63224ce](https://github.com/Alexandrshy/como-north/commit/63224ceb169826027bdf727fd82781be398044da))
+* bump lint-staged from 10.2.13 to 10.3.0 ([06e9d47](https://github.com/Alexandrshy/como-north/commit/06e9d477463c760357162c0172dd209f0486deec))
+* bump rollup from 2.26.9 to 2.26.10 ([58979a0](https://github.com/Alexandrshy/como-north/commit/58979a06e76099b0f9597da218726df412359429))
+* bump rollup-plugin-terser from 7.0.1 to 7.0.2 ([d9a6332](https://github.com/Alexandrshy/como-north/commit/d9a6332c051febf03be6250a9f39204fa80cd148))
+
 ## [1.1.17](https://github.com/Alexandrshy/como-north/compare/v1.1.16...v1.1.17) (2020-09-02)
 
 
