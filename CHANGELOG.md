@@ -1,3 +1,16 @@
+## [1.1.19](https://github.com/Alexandrshy/como-north/compare/v1.1.18...v1.1.19) (2020-09-17)
+
+
+### Bug Fixes
+
+* bump @commitlint/cli from 9.1.2 to 11.0.0 ([12e8271](https://github.com/Alexandrshy/como-north/commit/12e82718c2e0620066644676cc9d1cadea39f412))
+* bump @commitlint/config-conventional from 9.1.2 to 11.0.0 ([3eb9ae7](https://github.com/Alexandrshy/como-north/commit/3eb9ae78a02dc938fe6c81536777bec2d0fc7d1b))
+* bump @rollup/plugin-babel from 5.2.0 to 5.2.1 ([5167cfa](https://github.com/Alexandrshy/como-north/commit/5167cfab4364ac1bc70bdfad114f28296bc2efdd))
+* bump eslint from 7.8.1 to 7.9.0 ([881ef46](https://github.com/Alexandrshy/como-north/commit/881ef462e416ec4f87b7008a0b40293692180395))
+* bump eslint-plugin-jsdoc from 30.3.2 to 30.4.2 ([89927a8](https://github.com/Alexandrshy/como-north/commit/89927a87954556c0aad3c38f5f1726e344f8cbf0))
+* bump husky from 4.2.5 to 4.3.0 ([c483112](https://github.com/Alexandrshy/como-north/commit/c483112a3b91a7f92dc90254484a97fdbfb30dbd))
+* bump rollup from 2.26.10 to 2.26.11 ([4a97bc3](https://github.com/Alexandrshy/como-north/commit/4a97bc3f90d1b9efce2e4231d540d7948eb7fb49))
+
 ## [1.1.18](https://github.com/Alexandrshy/como-north/compare/v1.1.17...v1.1.18) (2020-09-11)
 
 
