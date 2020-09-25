@@ -1,3 +1,15 @@
+## [1.1.20](https://github.com/Alexandrshy/como-north/compare/v1.1.19...v1.1.20) (2020-09-25)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-jsdoc from 30.4.2 to 30.5.1 ([4a11303](https://github.com/Alexandrshy/como-north/commit/4a11303854c40b5671c29c64f82bd033a93e6c61))
+* bump lint-staged from 10.3.0 to 10.4.0 ([177c7da](https://github.com/Alexandrshy/como-north/commit/177c7dac2031d81d32dd505dc3b7b970e25a3369))
+* bump prettier from 2.1.1 to 2.1.2 ([a48949d](https://github.com/Alexandrshy/como-north/commit/a48949d3ee5e15553d07f0c3ea169de768f4784b))
+* bump rollup from 2.26.11 to 2.27.1 ([e5ef97b](https://github.com/Alexandrshy/como-north/commit/e5ef97b2ef5501f032c270421eefa5186503713c))
+* bump semantic-release from 17.1.1 to 17.1.2 ([de744f4](https://github.com/Alexandrshy/como-north/commit/de744f419737ed991cd1d30319c80ae89fbbf58d))
+* bump typescript from 4.0.2 to 4.0.3 ([97f1de9](https://github.com/Alexandrshy/como-north/commit/97f1de90e862258121e03afcaa627bc68ea8ecec))
+
 ## [1.1.19](https://github.com/Alexandrshy/como-north/compare/v1.1.18...v1.1.19) (2020-09-17)
 
 
