@@ -1,3 +1,19 @@
+## [1.1.22](https://github.com/Alexandrshy/como-north/compare/v1.1.21...v1.1.22) (2020-11-21)
+
+
+### Bug Fixes
+
+* [security] bump semantic-release from 17.2.1 to 17.2.3 ([02db9f9](https://github.com/Alexandrshy/como-north/commit/02db9f9500f4845ce182c3d5b04fb89cba817365))
+* bump @babel/preset-typescript from 7.10.4 to 7.12.1 ([1d0467e](https://github.com/Alexandrshy/como-north/commit/1d0467e5a50f1b769223ed68df41e1b11c5b8b6f))
+* bump @rollup/plugin-commonjs from 15.1.0 to 16.0.0 ([6222349](https://github.com/Alexandrshy/como-north/commit/62223498fc217778d463737b2e11ae7552663e7c))
+* bump @rollup/plugin-node-resolve from 9.0.0 to 10.0.0 ([9ff7ca0](https://github.com/Alexandrshy/como-north/commit/9ff7ca0d63b8d4d28230b96302d556b365ed18cd))
+* bump eslint from 7.11.0 to 7.13.0 ([0f758e2](https://github.com/Alexandrshy/como-north/commit/0f758e22a678544def524f6b0272b793b9e5d920))
+* bump eslint-config-prettier from 6.13.0 to 6.15.0 ([9c102de](https://github.com/Alexandrshy/como-north/commit/9c102ded8eca45b4db209cfc772852b4331e6f5d))
+* bump eslint-plugin-jsdoc from 30.6.5 to 30.7.8 ([37a0eb6](https://github.com/Alexandrshy/como-north/commit/37a0eb65fe33727a83cf745b221902be02fde52b))
+* bump lint-staged from 10.4.0 to 10.5.1 ([24362dd](https://github.com/Alexandrshy/como-north/commit/24362dd52d156697a99c9d6f78ee35141dfa12ed))
+* bump rollup from 2.32.1 to 2.33.3 ([29d4c85](https://github.com/Alexandrshy/como-north/commit/29d4c85b36afe180c95e082c36888e701434e257))
+* bump rollup-plugin-typescript2 from 0.28.0 to 0.29.0 ([1e92560](https://github.com/Alexandrshy/como-north/commit/1e925605ede8fb989e1af1836f14a4b0dc663895))
+
 ## [1.1.21](https://github.com/Alexandrshy/como-north/compare/v1.1.20...v1.1.21) (2020-10-24)
 
 
