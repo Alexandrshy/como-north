@@ -1,3 +1,20 @@
+## [1.1.23](https://github.com/Alexandrshy/como-north/compare/v1.1.22...v1.1.23) (2021-01-11)
+
+
+### Bug Fixes
+
+* [security] bump ini from 1.3.5 to 1.3.8 ([35d4b9a](https://github.com/Alexandrshy/como-north/commit/35d4b9a932587f20e235028af1440c7424bb7c0b))
+* bump @babel/core from 7.12.3 to 7.12.10 ([067fd1c](https://github.com/Alexandrshy/como-north/commit/067fd1caa966b04e131e019a4fbe13e203235794))
+* bump @babel/preset-env from 7.12.1 to 7.12.11 ([7c1bfe4](https://github.com/Alexandrshy/como-north/commit/7c1bfe4dfbf1fed03558152420f3940003b0d457))
+* bump @babel/preset-typescript from 7.12.1 to 7.12.7 ([3671a8d](https://github.com/Alexandrshy/como-north/commit/3671a8d9de3fbe158599d2d41cab95a38bce5132))
+* bump @semantic-release/npm from 7.0.6 to 7.0.9 ([6eeb63a](https://github.com/Alexandrshy/como-north/commit/6eeb63a8bf2d09b5129b4d6c8b99665ae5c4c2e4))
+* bump eslint from 7.13.0 to 7.17.0 ([a84bdec](https://github.com/Alexandrshy/como-north/commit/a84bdec374d82dd4da569428ae3f4123b52acd06))
+* bump lint-staged from 10.5.1 to 10.5.3 ([7e3ff39](https://github.com/Alexandrshy/como-north/commit/7e3ff398eb3adc21d226abf7b8e357c47b9cf319))
+* bump prettier from 2.1.2 to 2.2.1 ([b3bc55c](https://github.com/Alexandrshy/como-north/commit/b3bc55ca87f129e8f4a788cde972782f9241d238))
+* bump rollup from 2.33.3 to 2.36.1 ([bed0e98](https://github.com/Alexandrshy/como-north/commit/bed0e98e383a29679ffcff2b84da80d619490171))
+* bump semantic-release from 17.2.3 to 17.3.1 ([0522ab1](https://github.com/Alexandrshy/como-north/commit/0522ab12cefbb2d02e4fdfb7d64624954f50cf39))
+* bump typescript from 4.0.3 to 4.1.3 ([b637b1c](https://github.com/Alexandrshy/como-north/commit/b637b1c2a1137323bd1b23059492cbfe292acee9))
+
 ## [1.1.22](https://github.com/Alexandrshy/como-north/compare/v1.1.21...v1.1.22) (2020-11-21)
 
 
